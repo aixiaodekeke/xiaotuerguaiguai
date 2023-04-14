@@ -1,0 +1,15 @@
+Zksync lite主网
+①跨链桥；https://lite.zksync.io/account
+②去中心化交易所； https://trade.zigzag.exchange
+③nft市场；先去这里；lenster.xyz获得cid信息
+然后去制造nft；https://lite.zksync.io/transaction/nft/mint/
+
+
+
+Zksync era主网
+①跨链桥；https://bridge.zksync.io
+第三方跨链（等开通）https://www.orbiter.finance（lite到era）
+
+③；去中心化交易所；https://syncswap.xyz/swap（没发币，一箭双雕）
+
+④铸造nft；https://mintsquare.io/zksync
